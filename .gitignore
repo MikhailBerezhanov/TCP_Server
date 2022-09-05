@@ -1,0 +1,6 @@
+*.txt
+*.out
+*.o
+obj/*
+tests/*
+bin/*
